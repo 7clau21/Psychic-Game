@@ -1,5 +1,5 @@
-var userName = prompt("Hi! What is your name?");
-alert ("Welcome " + userName + " , type any letter to beging playing!")
+//var userName = prompt("Hi! What is your name?");
+//alert ("Welcome " + userName + " , type any letter to beging playing!")
 
 
 //Letter choices available
